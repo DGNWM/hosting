@@ -1,0 +1,798 @@
+[
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f56",
+    "category ": "Launch",
+    "name": "   Mutton khana set",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125328551143559208/veg_khana_set-removebg-preview_1.png?width=504&height=589 ",
+    "price": 770,
+    "rating": " 4",
+    "type": "non-veg",
+    "total": null,
+    "quantity": 1
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f57",
+
+    "category ": "Launch",
+    "name": "Chicken khana set ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125327539594858516/pork_khana_set.jpeg?width=675&height=459 ",
+    "price": 650,
+    "rating": "5 ",
+    "type": "non-veg",
+    "total": null,
+    "quantity": 1
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f58",
+
+    "category ": "Launch",
+    "name": " Pork khana set",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125328370125774899/pork_khana_set.jpeg?width=523&height=589 ",
+    "price": 665,
+    "rating": "4",
+    "type": "non-veg",
+    "total": null,
+    "quantity": 1
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f59",
+    "category ": "Launch",
+    "name": "Veg khana set ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125327882693115924/veg_khana_set.jpeg?width=577&height=589 ",
+    "price": 565,
+    "rating": " 4",
+    "type": "veg",
+    "total": null,
+    "quantity": 1
+  },
+
+  {
+      "id":"3c1aa47c-34cc-4383-9008-886838618f60",
+
+      "category ": "Launch",
+      "name": "Chicken Thukpa ",
+      "image": "https://media.discordapp.net/attachments/1123144974683361401/1125374115696607282/chicken_thupka.jpg?width=580&height=580 ",
+      "price":350 ,
+      "rating": "5 ",
+      "type": "non-veg",
+      "total":null,
+      "quantity":1
+  },
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f61",
+
+    "category ": "Launch",
+    "name": "Buff Thukpa ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125374115432370196/buff_thukpa.jpg?width=580&height=580 ",
+    "price":320 ,
+    "rating": "5 ",
+    "type": "non-veg",
+    "total":null,
+    "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f62",
+
+  "category ": "Launch",
+  "name": "Mix Thukpa ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125374115084247115/mix_thupka.jpg?width=580&height=580 ",
+  "price":390 ,
+  "rating": "5 ",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f63",
+
+  "category ": "Launch",
+  "name": "Veg Thukpa ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125374115990216734/Vegan_spicy_noodle_soup_nepali_thukpa_3.jpg?width=718&height=483",
+  "price":230 ,
+  "rating": "5 ",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f64",
+
+  "category ": "Launch",
+  "name": "Mutton Curry  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125377826867134575/chicken_xurry.jpg?width=502&height=580 ",
+  "price": 580,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f65",
+
+  "category ": "Launch",
+  "name": "Chicken Curry  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125377826867134575/chicken_xurry.jpg?width=502&height=580 ",
+  "price":410 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f66",
+
+  "category ": "Launch",
+  "name": "Mutter Panner  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125379018250784829/Matar-Paneer-2.jpg?width=387&height=580 ",
+  "price":410 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f67",
+
+  "category ": "Launch",
+  "name": " Mix Veg Curry ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125378327490875422/mix_veg_curry.jpeg?width=337&height=337 ",
+  "price": 350,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f68",
+
+  "category ": "Launch",
+  "name": "Chicken Butter Masala  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125377826535780414/Butter-Chicken-masala.jpg?width=387&height=580 ",
+  "price":450 ,
+  "rating": "4",
+  "type": "nonveg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f69",
+
+  "category ": "Launch",
+  "name": "Mutton Masala  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125377826535780414/Butter-Chicken-masala.jpg?width=387&height=580 ",
+  "price":620 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f70",
+
+  "category ": "Launch",
+  "name": "Panner butter Masala  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125377826250571786/panner_butter_masala.jpg?width=718&height=478 ",
+  "price": 465,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f71",
+
+  "category ": "Launch",
+  "name": " Daal Fry ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125377825935994982/daal_fry.jpg?width=435&height=580 ",
+  "price":  275,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f72",
+
+  "category ": "Launch",
+  "name": "Margherita Pizza  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1126032722083725312/classic-margherita-pizza.jpg?width=391&height=589 ",
+  "price":740 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f73",
+
+  "category ": "Launch",
+  "name": "Veg Cheese Pizza  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125689730458198107/image.png?width=558&height=589 ",
+  "price":730 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f74",
+
+  "category ": "Launch",
+  "name": "Mushroom pizza  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125690426029002853/image.png?width=471&height=589 ",
+  "price":850 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f75",
+
+  "category ": "Launch",
+  "name": "Chicken Pizza  ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125689839199723600/image.png?width=786&height=589",
+  "price":850 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f76",
+
+  "category ": "Launch",
+  "name": "Hawalian Pizza  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125693181611216926/hawaiian-pizza-ddmfs-3x2-132-450eff04ad924d9a9eae98ca44e3f988.jpg?width=786&height=589 ",
+  "price":1075 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f77",
+
+  "category ": "Launch",
+  "name": "Meat Lover pizza  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125692760607952927/image.png?width=471&height=589 ",
+  "price": 1120,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f78",
+
+  "category ": "Launch",
+  "name": "Tandoori Chicken Pizza  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125692760607952927/image.png?width=471&height=589 ",
+  "price":1090 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f79",
+
+  "category ": "Launch",
+  "name": "Chicken Chhoila  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125706648112091176/choila.jpg?width=786&height=589 ",
+  "price":475 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f80",
+
+  "category ": "Launch",
+  "name": " Chicken Taas ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125706648804151306/chicken_taas.jpeg?width=432&height=262 ",
+  "price":485 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f81",
+
+  "category ": "Launch",
+  "name": " Buff Chilly ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125706648539893821/buffchily.jpg?width=589&height=589 ",
+  "price": 435,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f82",
+  "category ": "Launch",
+  "name": "Buff Sukuti  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125706648325980202/buff_sukuti.jpg?width=933&height=589 ",
+  "price":450 ,
+  "rating": "4",
+  "type": "nonveg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f83",
+
+  "category ": "Launch",
+  "name": "Bolognese   ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125708948054474814/bolognese.jpg?width=591&height=589 ",
+  "price":395 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f84",
+
+  "category ": "Launch",
+  "name": "Carbonara   ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125708948910129162/carbonara.jpg?width=885&height=589 ",
+  "price":450 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f85",
+
+  "category ": "Launch",
+  "name": "Cheese Mushroom Sauce  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125708948624908389/cheese_pasta.jpeg?width=337&height=337 ",
+  "price":375 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f86",
+
+  "category ": "Launch",
+  "name": "Arrabbiata  ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125708948322926612/Arrabiata-Pasta-with-Shrimp-12.jpg?width=393&height=589",
+  "price":365 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f87",
+
+  "category ": "Launch",
+  "name": "Grilled Chicken Burger  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125710226767757312/front-view-burger-stand.jpg?width=885&height=589 ",
+  "price":465 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f88",
+
+  "category ": "Launch",
+  "name": "Crunchy Chicken Burger  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125710225454931988/fresh-tasty-homemade-burger-wooden-table.jpg?width=856&height=589 ",
+  "price":475 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f89",
+
+  "category ": "Launch",
+  "name": "Veg Cheese Burger  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125710003781783634/download_1.jpeg?width=412&height=274 ",
+  "price":425 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Hot & Sour Soup(veg)  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125728788144197652/chinese-hot-and-sour-soup-sq.jpg?width=589&height=589 ",
+  "price": 275,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Hot & Sour Soup (Non-veg)  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125728788144197652/chinese-hot-and-sour-soup-sq.jpg?width=589&height=589 ",
+  "price": 350,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Cream of Chicken  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125730114894823524/image.png?width=886&height=589 ",
+  "price": 290,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Cream of Mushroom  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125730238702293034/cream-of-mushroom-soup-2.jpg?width=393&height=589 ",
+  "price":270 ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Chicken Fried Rice ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125732468926971974/image.png?width=718&height=411 ",
+  "price":285 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Buff Fried Rice ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125732468926971974/image.png?width=1030&height=589 ",
+  "price":275 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Mix Fried Rice ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125733681730965514/image.png?width=1042&height=589 ",
+  "price":340 ,
+  "rating": "4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Veg Fried Rice ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125734197886210139/image.png?width=1030&height=589",
+  "price":260,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125743673880088586/MOMO-PLATTER.jpg?width=589&height=589 ",
+  "name": "Chicken Momo Platter ",
+  "price":475 ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Buff momo Platter ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125743673880088586/MOMO-PLATTER.jpg?width=589&height=589 ",
+  "price":460 ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Veg momo Platter ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125743673880088586/MOMO-PLATTER.jpg?width=589&height=589",
+  "price": 385,
+  "rating": " 5",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Chicken Momo(Steam/Jhol/C/Fry.Kothey) ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125745148190543933/Momo_nepal.jpg?width=807&height=589 ",
+  "price":"275/325/335/295/285" ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Buff Momo(Steam/Jhol/C/Fry/Kothey) ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125745148190543933/Momo_nepal.jpg?width=807&height=589 ",
+  "price":"260/320/335/285/275" ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Veg Momo(Steam/Jhol/C/Fry/Kothey) ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125745148190543933/Momo_nepal.jpg?width=807&height=589",
+  "price":"210/290/290/245/235" ,
+  "rating": " 5",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Chicken Sekuwa(Plate/half kg/1 kg )",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125747314565320794/image.png?width=718&height=411 ",
+  "price":"430/780/1340" ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Pork Sekuwa(Plate/half kg/1 kg ) ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125747314565320794/image.png?width=718&height=411 ",
+  "price":"450/960/1770" ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": " Mutton Sekuwa(Plate/half kg/1 kg )",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125747314565320794/image.png?width=718&height=411 ",
+  "price":"595/1925/3750" ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Mutton Khaja Set ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125979936642052167/chicken_khaja_set.jpeg?width=376&height=301 ",
+  "price":570,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Chicken Khaja Set ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125979936642052167/chicken_khaja_set.jpeg?width=376&height=301 ",
+  "price":475 ,
+  "rating": " 5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Panner  Khaja Set ",
+  "image": " https://media.discordapp.net/attachments/1123144974683361401/1125980743391248404/newari-khaja-set_veg-removebg-preview.png?width=888&height=589",
+  "price":475 ,
+  "rating": " 5",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Veg  Khaja Set ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125979937371861066/veg_khaja_set.png?width=888&height=589 ",
+  "price":375 ,
+  "rating": " 5",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Mutton Hadi Biryani(Bowl/Medium/Large)  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125983424495226990/dum-handi-chicken-biryani-is-prepared-earthen-clay-pot-called-haandi-popular-indian-non-vegetarian-food.jpg?width=876&height=589 ",
+  "price":"640/1280/2380" ,
+  "rating": " 4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Chicken Haddi Biryani  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125983424495226990/dum-handi-chicken-biryani-is-prepared-earthen-clay-pot-called-haandi-popular-indian-non-vegetarian-food.jpg?width=876&height=589 ",
+  "price": "550/1020/1820",
+  "rating": " 4",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category": "Launch",
+  "name": "Panner Hadi Biryani(Bowl/Medium/Large)  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125984339629441182/omkar-jadhav-o5XB6XwTb1I-unsplash.jpg?width=504&height=574 ",
+  "price":"620/1165/2150)" ,
+  "rating": "4",
+  "type": "veg",
+  "total":null,
+  "quantity":1
+},
+{
+  "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+
+  "category ": "Launch",
+  "name": "Pork Hadi Biryani(Bowl/Medium.Large)  ",
+  "image": "https://media.discordapp.net/attachments/1123144974683361401/1125983424495226990/dum-handi-chicken-biryani-is-prepared-earthen-clay-pot-called-haandi-popular-indian-non-vegetarian-food.jpg?width=876&height=589 ",
+  "price":"550/1025/1820" ,
+  "rating": "5",
+  "type": "non-veg",
+  "total":null,
+  "quantity":1
+},
+
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+  
+    "category ": "Launch",
+    "name": "Veg Hadi Biryani(Bowl/Mediuum/Large)  ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125984339629441182/omkar-jadhav-o5XB6XwTb1I-unsplash.jpg?width=504&height=574- ",
+    "price":"450/910/1660" ,
+    "rating": " 4",
+    "type": "veg",
+    "total":null,
+    "quantity":1
+  },
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+  
+    "category ": "Launch",
+    "name": "Tandoori Roti  ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125987811451998248/image.png?width=883&height=589 ",
+    "price":35 ,
+    "rating": "4",
+    "type": "veg",
+    "total":null,
+    "quantity":1
+  },
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+  
+    "category ": "Launch",
+    "name": "Plain Naan"  ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125988044751781968/naan-recipe-2.jpg?width=589&height=589 ",
+    "price":60 ,
+    "rating": " 4",
+    "type": "veg",
+    "total":null,
+    "quantity":1
+  },
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+    "category ": "Launch",
+    "name": "Butter Naan  ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125987015490535464/top-view-pakistani-meal-arrangement.jpg?width=885&height=589 ",
+    "price":85 ,
+    "rating": " 4",
+    "type": "veg",
+    "total":null,
+    "quantity":1
+  },
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+    "category ": "Launch",
+    "name": "Chicken Keema Naan  ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125986774615867463/keema-naan-12.jpg?width=589&height=589 ",
+    "price":140 ,
+    "rating": " 4",
+    "type": "non-veg",
+    "total":null,
+    "quantity":1
+  },
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+    "category ": "Launch",
+    "name": "Cheese Naan  ",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125986774355812473/naan.jpg?width=843&height=589 ",
+    "price":170 ,
+    "rating": " 5",
+    "type": "veg",
+    "total":null,
+    "quantity":1
+  },
+  
+ 
+  {
+    "id":"3c1aa47c-34cc-4383-9008-886838618f90",
+    "category ": "Launch",
+    "name": "  ",
+    "image": " ",
+    "price": 7,
+    "rating": "4",
+    "type": "veg",
+    "total":null,
+    "quantity":1
+  }
+
+
+
+]

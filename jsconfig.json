@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "paths": {
+            "data": [
+                "src/data/*"
+            ],
+            "constant": [
+                "src/constant/*"
+            ],
+            "redux": [
+                "src/Redux/*"
+            ],
+            "toast":[
+                "src/Toast/*"
+            ],
+            "admin":[
+                "src/admin/*"
+            ]
+        }
+    },
+    "include": [
+        "src"
+    ]
+}

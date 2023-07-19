@@ -1,0 +1,57 @@
+[
+    {
+        "id": "77ab0dcb-a76b-4f07-ba9f-aedf35280715",
+        "category": "Breakfast",
+        "name": "French Fry",
+        "image": "https://media.discordapp.net/attachments/1123144974683361401/1123543322250723428/freshly-italian-pizza-with-mozzarella-cheese-slice-generative-ai-removebg-preview-removebg-preview.png?width=991&height=565",
+        "price": 34,
+        "rating": 4,
+        "type": "veg",
+        "quantity":1,
+        "total": null
+    },
+    {
+        "id": "77ab0dcb-a76b-4f07-ba9f-aedf35280716",
+        "category": "Breakfast",
+        "name": " chana/Egg",
+        "image": " https://media.discordapp.net/attachments/1123144974683361401/1123196028053635082/red-iced-cocktail-table-removebg-preview.png?width=471&height=589",
+        "price": 60 ,
+        "rating": 4.5,
+        "type": "non-veg",
+        "quantity":1,
+        "total": null
+    },
+    {
+        "id": "77ab0dcb-a76b-4f07-ba9f-aedf35280717",
+        "category": "Breakfast ",
+        "name": " Jhol curry",
+        "image": "https://media.discordapp.net/attachments/1123144974683361401/1123196028393365567/big-sandwich-hamburger-burger-with-beef-red-onion-tomato-fried-bacon-removebg-preview.png?width=669&height=589 ",
+        "price": 35,
+        "rating": 3.2,
+        "type": "veg",
+        "quantity":1,
+        "total": null
+    },
+    {
+        "id": "77ab0dcb-a76b-4f07-ba9f-aedf35280718",
+        "category": "Breakfast ",
+        "name": " Roti Tarkari set ",
+        "image": "https://media.discordapp.net/attachments/1123144974683361401/1123196028393365567/big-sandwich-hamburger-burger-with-beef-red-onion-tomato-fried-bacon-removebg-preview.png?width=669&height=589 ",
+        "price": 67,
+        "rating": 5,
+        "type": "veg",
+        "quantity":1,
+        "total": null
+    },
+    {
+        "id": "77ab0dcb-a76b-4f07-ba9f-aedf35280719",
+        "category": "Breakfast ",
+        "name": " Omelette egg",
+        "image": "https://media.discordapp.net/attachments/1123144974683361401/1123196028053635082/red-iced-cocktail-table-removebg-preview.png?width=471&height=589 ",
+        "price": 45,
+        "rating": 4.6,
+        "type": "non-veg",
+        "quantity":1,
+        "total": null
+    }
+]

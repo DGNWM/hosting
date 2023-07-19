@@ -1,0 +1,73 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Slab:wght@300&display=swap');
+
+.h {
+    border: 1px solid red;
+}
+
+.nav::after {
+    content: "";
+    width: 0;
+    height: 1px;
+    background: #DC143C;
+    position: absolute;
+    left: 0;
+    bottom: 0px;
+    transition: 0.5s;
+}
+
+.nav:hover::after {
+    width: 100%;
+}
+
+.nav {
+    position: relative;
+}
+
+.nav:hover {
+    color: hsl(39, 96%, 51%);
+}
+
+::-webkit-scrollbar {
+    width: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #7791b3;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.753);
+}
+
+
+/* navbar and button background */
+.background {
+    background: rgb(69, 18, 15);
+    background: linear-gradient(90deg, rgba(69, 18, 15, 1) 67%, rgba(77, 47, 36, 1) 100%);
+}
+
+/* dropdown bg */
+.dropdownBg {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(180deg, rgba(2, 0, 36, 1) 0%, rgba(219, 151, 151, 1) 0%, rgba(69, 18, 15, 1) 55%, rgba(69, 18, 15, 1) 100%);
+}
+
+/* drawer background */
+.drawerBg {
+    background: rgb(195, 53, 34);
+    background: linear-gradient(0deg, rgba(195, 53, 34, 1) 0%, rgba(253, 187, 45, 1) 100%);
+}
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: white;
+    transform: translate(-50%, -50%);
+    padding: 5px;
+}

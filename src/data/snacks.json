@@ -1,0 +1,319 @@
+[
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f33",
+    "category": "Snacks",
+    "name": "veg pakoda",
+    "price": 360,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125314025467687012/delicious-boneless-chicken-sauce-high-angle.jpg?width=393&height=589 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f34",
+    "category": "Snacks",
+    "name": " French fry",
+    "price": 245,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125314026390429806/crispy-french-fries-with-ketchup-mayonnaise.jpg?width=885&height=589",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f35",
+    "category": "Snacks",
+    "name": "Mustang Aalo ",
+    "price": 385,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125314027371901058/dish-with-potatoes.jpg?width=885&height=589 ",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f36",
+    "category": "Snacks",
+    "name": "Cheese Ball",
+    "price": 475,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125314027908767804/tasty-food-croquettes-bowl.jpg?width=393&height=589",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f37",
+    "category": "Snacks",
+    "name": "Corn salt pepper ",
+    "price": 285,
+    "image": " https://media.discordapp.net/attachments/1123144974683361401/1125314029431296080/top-view-chips-popcorn-bowls-white-wooden-horizontal.jpg?width=916&height=589",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f38",
+    "category": "Snacks",
+    "name": "Cheese Stuff Mushroom  ",
+    "price": 375,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125314031129997423/side-view-mushrooms-with-potatoes-middle-dark-background-there-are-fried-potatoes-with-mushrooms-brown-bowl-purple-background.jpg?width=885&height=589 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f39",
+    "category": "Snacks",
+    "name": "Peanuts",
+    "price": 320,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125318090071228446/peanut_sadheko.jpeg?width=388&height=291 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f40",
+    "category": "Snacks",
+    "name": " Bhatmas Sadheko ",
+    "price": 320,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125315884865560586/bhatmas_sadheko.JPG?width=819&height=589 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f41",
+    "category": "Snacks",
+    "name": "Mushroom Choila",
+    "price": 385,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125315884282544219/Mushroom-Choila-Main-image-2-1536x1040.png?width=870&height=589 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f42",
+    "category": "Snacks",
+    "name": " Mushroom Chilly ",
+    "price": 395,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125317392835280996/Chilli_Mushroom.JPG?width=867&height=589 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f43",
+    "category": "Snacks",
+    "name": "Paneer Chilly",
+    "price": 475,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125315884634877972/paneercc_hiili.jpeg?width=274&height=412 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f44",
+    "category": "Snacks",
+    "name": " pakoda",
+    "price": 465,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125314032325365862/deep-fried-dim-sum-with-savory-sauce-generated-by-ai.jpg?width=1030&height=589 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f45",
+    "category": "Snacks",
+    "name": "  Chilly French Fry ",
+    "price": 285,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125318760786559016/chilly_french.jpeg?width=448&height=253 ",
+    "rating": "5",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f46",
+    "category": "Snacks",
+    "name": "Chicken Chilly(Boneless/with Bone) ",
+    "price": "450/385",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126029668928192612/chilli-chicken-recipe.jpg?width=885&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f47 ",
+    "category": "Snacks",
+    "name": "Chicken Sadheko",
+    "price": 395,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126029668647182407/chicken-sadeko-nepali.jpg?width=840&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f48 ",
+    "category": "Snacks",
+    "name": "Chicken Boiled ",
+    "price": 360,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126029668416487536/download_2.jpeg?width=388&height=291 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f49 ",
+    "category": "Snacks",
+    "name": "Chicken Lollipop ",
+    "price": 465,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126029668231958568/chicken_lollipop.jpeg?width=298&height=379 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f50",
+    "category": "Snacks",
+    "name": "Drumsticks ",
+    "price": 475,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126029668022231110/drumstick.jpg?width=786&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f51 ",
+    "category": "Snacks",
+    "name": "Drums Heaven ",
+    "price": 495,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126031130248876052/drumstick.jpg?width=786&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f52 ",
+    "category": "Snacks",
+    "name": "Chicken Nuggets ",
+    "price": 375,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126031129602965514/chikcne_nuggets.jpg?width=391&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": "3c1aa47c-34cc-4383-9008-886838618f53",
+    "category": "Snacks",
+    "name": "Chicken Sausage(fry/Boild)",
+    "price": "360/345",
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126032063338917898/how-to-cook-chicken-sausages.jpeg?width=589&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+
+ 
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f56",
+    "category": "Snacks",
+    "name": "Chicken Noodles",
+    "price":275 ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125382946505891890/gourmet-meal-stir-fried-vegetables-prawn-generated-by-ai.jpg?width=718&height=411 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f57",
+    "category": "Snacks",
+    "name": "Buff Noodles ",
+    "price":270 ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125382944618463333/mixed.jpg?width=580&height=580 ",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f58",
+    "category": "Snacks",
+    "name": "Mix Noodles ",
+    "price":340 ,
+    "image": "blob:https://discord.com/dbcb272a-599d-40cd-afc9-0df24bc9e451 ",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f59",
+    "category": "Snacks",
+    "name": "Veg noodles ",
+    "price":260 ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1125382945964834927/bowl-noodles-with-green-onion-top.jpg?width=718&height=478 ",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f60",
+    "category": "Snacks",
+    "name": "Mix fruits Salad ",
+    "price":410 ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126023459571499069/fruit-salad-2.jpg?width=393&height=589 ",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f61",
+    "category": "Snacks",
+    "name": "Garden Salad ",
+    "price":275 ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126023459168858193/Easy-Garden-Salad-Culinary-Hill-1200x800-1.jpg?width=885&height=589 ",
+    "rating": "4",
+    "type": "veg",
+    "quantity": 1,
+    "total": null
+  },
+  {
+    "id": " 3c1aa47c-34cc-4383-9008-886838618f62",
+    "category": "Snacks",
+    "name": "Spicy Chicken Caesar Salad ",
+    "price":395 ,
+    "image": "https://media.discordapp.net/attachments/1123144974683361401/1126023458908807168/spicy-chicken-caesar-salad.jpg?width=393&height=589 ",
+    "rating": "4",
+    "type": "non-veg",
+    "quantity": 1,
+    "total": null
+  }
+]
